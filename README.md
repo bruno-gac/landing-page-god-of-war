@@ -12,5 +12,6 @@ Neste projeto pude aprender tecnologias como HTML, CSS, Saas e Javascript, além
 - Adicionar as animações utilizando o AOS e consequentente melhorando muito a experiencia do usuário.
 - Conhecer e utilizar melhor a ferramenta Sass.
 
-Página: <a href="https://landing-page-god-of-war.netlify.app" target="blank">Landing page God of War</a>
+Página: <a href="https://landing-page-god-of-war.netlify.app">Landing page God of War</a>
+
 
