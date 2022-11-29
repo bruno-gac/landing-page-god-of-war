@@ -28,3 +28,7 @@ Eu sou uma pessoa buscando aprender sobre desenvolvimento web, focado em front-e
 
  - [William Moreira](https://www.instagram.com/wiimoreira/)
  - [Codeboost](https://codeboost.com.br/)
+
+## Demonstração
+
+https://landing-page-god-of-war.netlify.app/
